@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hello 👋, I'm Ibrahim</h1>
+<h3 align="center">I am passionate about the 21st century’s oil : <b> Data </b> and all the problems of handling, processing and analysis that are related to it in a business ecosystem.</h3>
+<p>&nbsp;</p>
+🎓 I just finished a Data Science and Coding bootcamp at Le Wagon. <br>
+📚 I have several years of experience in auditing at one of the largest audit firms in the world (EY), which allowed me to understand the importance of data in companies of any size and the nature of their flows. <br>
+🚀 I became even more interested in data after discovering blockchain technology and writing a thesis on it in 2020. <br>
+🔩 I have a background in Finance and Data Analytics, and during our Wagon bootcamp, with 3 of my other Wagon buddies, we developp a tool for NLP-powered assistive exploration of research papers in AI / ML related fields hosted on Streamlit, named "Research-Pulse", website link : https://research-pulse.streamlit.app <br>
+🌐 You can find me on <a href="https://www.linkedin.com/in/ibrahim-guesmi"> LinkedIn. </a>
+<p>&nbsp;</p>
 
-<!--
-**Ibragues97/Ibragues97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Languages and Technologies I know
+<p align="left"> <a href="https://dbeaver.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/langfr-800px-DBeaver_logo.svg.png" alt="dbeaver" width="40" height="40"/> </a> <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> </p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
